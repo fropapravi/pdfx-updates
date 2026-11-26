@@ -1,1 +1,1 @@
-{"version":"35","sha256":"8b5e7f79cf0840e741f8c3558162da8d074df865940bbfc6db837010c9392f65","size":30084096,"notes":"PDF to DWG: text now sits exactly on the original (no double/ghost text), correct CAD text height and width, Arial font in DWG."}
+{"version":"36","sha256":"e241fef71364606b6c65ece4c1a4ec7a73e7c5da577145456ca31891cfd04ff9","size":30098944,"notes":"Edit text: original text is really removed (no white patch, lines underneath stay). Select text and press Delete to remove it."}
