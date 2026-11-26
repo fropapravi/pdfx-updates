@@ -1,1 +1,1 @@
-{"version":"42","sha256":"90b28e73a8a44ac018291619adabbe8099c959c97f1946d566e004e631402997","size":30129664,"notes":"Music controls: previous, play/pause, next, seek, volume. Songs YouTube blocks outside YouTube are skipped automatically."}
+{"version":"43","sha256":"d4d4655516f2f45a25e19df77255abd207dcf54d090d99e0f987b481de51510c","size":30130176,"notes":"Music icon: click = open & play, double-click = stop & close. Page number moved to the top header."}
