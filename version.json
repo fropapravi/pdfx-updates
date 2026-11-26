@@ -1,1 +1,1 @@
-{"version":"41","sha256":"b4ec4bccefeb7e603ae249856a8e947e01b46f54cdf6a94b1aa13138647939f4","size":30125056,"notes":"Music: small video player with song search in the ribbon corner (no popups)."}
+{"version":"42","sha256":"90b28e73a8a44ac018291619adabbe8099c959c97f1946d566e004e631402997","size":30129664,"notes":"Music controls: previous, play/pause, next, seek, volume. Songs YouTube blocks outside YouTube are skipped automatically."}
