@@ -1,1 +1,1 @@
-{"version":"48","sha256":"ed7e82c8e450155d0fc855dd4f7865f3a0d228171e3301db95bbdd6dfce28cf7","size":30039040,"notes":"Faster start; Esc cancels conversions; drawings convert to Word fast; music player gets its own header row (Spotify full size), click hides it, double-click stops."}
+{"version":"49","sha256":"fd7cae857326ce37697d61324e693cc80ee3cd72ecee1261a5341bda18496033","size":30049280,"notes":"Resume Builder: PDFx Resume AI (built-in, offline), saved resumes for several people, free-edit page (drag, edit, delete, add text/pictures/lines), live ATS score."}
