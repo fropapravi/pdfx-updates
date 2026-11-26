@@ -1,1 +1,1 @@
-{"version":"34","sha256":"ab266a4c03464424b86d8442767a13638e2f6d5f7c219b83e4246af1c7a3798e","size":30082560,"notes":"Comment icons: click to open / click again to close, drag to move anywhere (Save keeps the new place)."}
+{"version":"35","sha256":"8b5e7f79cf0840e741f8c3558162da8d074df865940bbfc6db837010c9392f65","size":30084096,"notes":"PDF to DWG: text now sits exactly on the original (no double/ghost text), correct CAD text height and width, Arial font in DWG."}
