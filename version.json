@@ -1,1 +1,1 @@
-{"version":"38","sha256":"a2a3f652d448944355da52519fab095fbc091644d14915232bf658b5552bd07d","size":30111232,"notes":"Music button now offers Spotify and YouTube Music, each in its own player window."}
+{"version":"39","sha256":"faf5da62a91847d065b4d43b3f0ae6446460b792432b387a9dc8a7832ba55d1e","size":30115840,"notes":"Music player built into PDFx: small screen in the right corner, plays Spotify or YouTube links inside the app."}
