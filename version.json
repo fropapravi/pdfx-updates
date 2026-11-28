@@ -1,1 +1,1 @@
-{"version": "54", "sha256": "ebae42a975a903f376df330c4967665438984f8434226dc6ebc5346e7d50e461", "size": 30237696, "notes": "2D view to DXF/DWG: curved outlines (jars, lids, rounded corners) no longer have broken gaps."}
+{"version": "54", "sha256": "460806681db27194c2ca00815afec66d7ff30c49901844ebbb109efdcb59a43c", "size": 30237696, "notes": "Update now replaces the old running PDFx properly; 2D view DXF/DWG: no gaps in curved outlines; AutoCAD-safe layers; Normal to face fix."}
