@@ -1,1 +1,1 @@
-{"version": "53", "sha256": "ab7ba2ff08b0de091be624674f32caf7f35934a412e4473793584b43e6f1e195", "size": 30237696, "notes": "DXF/DWG export fixed (AutoCAD no longer opens a blank drawing); Normal to face picks the right face and lines plan views up square."}
+{"version": "54", "sha256": "ebae42a975a903f376df330c4967665438984f8434226dc6ebc5346e7d50e461", "size": 30237696, "notes": "2D view to DXF/DWG: curved outlines (jars, lids, rounded corners) no longer have broken gaps."}
